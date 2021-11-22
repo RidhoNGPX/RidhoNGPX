@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Ridho](https://telegra.ph/file/44cb4c56063e6f69d9099.gif)
+(https://telegra.ph/file/44cb4c56063e6f69d9099.gif)
 <!--
 **RidhoNGPX/RidhoNGPX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
