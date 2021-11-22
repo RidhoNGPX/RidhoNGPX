@@ -1,5 +1,5 @@
 ### Hi Saya Ridho 👋
-[![Ridho](https://telegra.ph/file/44cb4c56063e6f69d9099.gif)](https://t.me/OdierBambi)
+[![Ridho](https://telegra.ph/file/e0037705abcc2c0d1bedd.gif)](https://t.me/OdierBambi)
 
 ### Terima kasih
 
