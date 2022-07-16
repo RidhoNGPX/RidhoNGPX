@@ -1,4 +1,4 @@
 ### Hi Saya Ridho 👋
-[![Ridho's github stats](https://github-readme-stats.vercel.app/api?username=RidhoNGPX&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-### Terima kasih
 
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=RidhoNGPX&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RidhoNGPX&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoNGPX&theme=tokyonight&hide=batchfile">
