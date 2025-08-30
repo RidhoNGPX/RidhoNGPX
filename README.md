@@ -18,7 +18,7 @@ Saya sedang belajar tentang **membuat API sederhana atau asynchronous programmin
 
 ### 📫 Hubungi Saya
 
-* **Telegram**: **@OdierBambih**
+* **Telegram**: **@OdierBambi**
 
 ---
 
