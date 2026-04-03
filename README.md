@@ -1,62 +1,28 @@
-<h1 align="center">Yo, I'm Ridho 👋</h1>
-<p align="center">
-  Python developer yang suka bikin bot, automation, dan project receh yang ternyata kepake.
-</p>
+<h1 align="center">RidhoNGPX</h1>
+<p align="center">Python • Automation • Bots • Systems</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RidhoNGPX&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://t.me/OdierBambi">Telegram</a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🐍 Fokus utama di **Python**
-- 🤖 Suka ngulik **Telegram bot**, automation, dan workflow yang simpel tapi berguna
-- 🐳 Nyaman pakai **Docker**, **Git**, dan lingkungan **Linux**
-- ⚡ Lagi seneng rapihin project jadi lebih clean, modular, dan gampang dimaintain
+```python
+class Ridho:
+    languages = ["Python"]
+    interests = ["Automation", "Telegram Bots", "APIs", "Systems"]
+    environment = ["Linux", "Docker", "Git"]
+```
 
-## 🛠 Tech Stuff
-- Python
-- Docker
-- Git
-- Linux
-- REST API / HTTP client
-- Async programming
-- Bot development
-
-## 🌱 Current Focus
-- Ngerapihin dan ngembangin project bot
-- Build tools yang ringan tapi kepake
-- Belajar lebih dalam soal async flow dan deployment
-
-## 📫 Reach Me
-- Telegram: [@OdierBambi](https://t.me/OdierBambi)
-
----
+## Focus
+- Building useful tools
+- Designing cleaner systems
+- Exploring async workflows
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidhoNGPX&show_icons=true&theme=tokyonight&hide_border=true" alt="Ridho GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RidhoNGPX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoNGPX&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RidhoNGPX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycmx5eWRrc2gxMDlid3k0OHZoOWg5cXZ4MDF0N2ZoOXN4bXo2eDA5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="280" alt="coding gif" />
-</p>
-
-<p align="center">
-  <i>Masih santai, tapi project tetep jalan.</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoNGPX&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </p>
