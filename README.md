@@ -1,45 +1,27 @@
-<h1 align="center">Yo, I'm Ridho 👋</h1>
+<h1 align="center">RidhoNGPX</h1>
+<p align="center">Python Developer • Automation • Bots • Systems</p>
+
 <p align="center">
-  Python developer yang suka bikin bot, automation, dan project receh yang ternyata kepake.
+  <a href="https://t.me/OdierBambi">Telegram</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RidhoNGPX&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Bots-111827?style=for-the-badge" alt="Bots" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🐍 Fokus utama di **Python**
-- 🤖 Suka ngulik **Telegram bot**, automation, dan workflow yang simpel tapi berguna
-- 🐳 Nyaman pakai **Docker**, **Git**, dan lingkungan **Linux**
-- ⚡ Lagi seneng rapihin project jadi lebih clean, modular, dan gampang dimaintain
+### About
+Python-focused developer yang suka bikin automation, bot, dan tools yang simpel tapi berguna.
 
-## 🛠 Tech Stuff
-- Python
-- Docker
-- Git
-- Linux
-- REST API / HTTP client
-- Async programming
-- Bot development
-
-## 🌱 Current Focus
-- Ngerapihin dan ngembangin project bot
-- Build tools yang ringan tapi kepake
-- Belajar lebih dalam soal async flow dan deployment
-
-## 📫 Reach Me
-- Telegram: [@OdierBambi](https://t.me/OdierBambi)
-
----
+### Focus
+- Telegram Bot Development
+- API & Async Workflow
+- Automation Tools
+- Clean System Design
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidhoNGPX&theme=github_dark" alt="Profile Details" />
