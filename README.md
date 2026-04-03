@@ -42,11 +42,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidhoNGPX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ridho GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidhoNGPX&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoNGPX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidhoNGPX&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidhoNGPX&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
