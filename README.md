@@ -27,10 +27,6 @@ Python-focused developer yang suka bikin automation, bot, dan tools yang simpel 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidhoNGPX&theme=github_dark" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidhoNGPX&theme=github_dark" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RidhoNGPX&theme=github_dark" alt="Most Commit Language" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RidhoNGPX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
